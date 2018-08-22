@@ -1,5 +1,7 @@
 # Introduction to Computer Programming for Biomedical Data Science
 ## BMI 6018/MDCRC 6521 Fall 2018
+### Wednesdays 6:00-8:00PM
+### Wakara 421 Room 1016
 
 ## Instructors                                   
 * Brian E. Chapman, Ph.D.: <brian.chapman@utah.edu>
