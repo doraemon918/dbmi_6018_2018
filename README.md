@@ -8,8 +8,8 @@
 
 ### Teaching Assistants
 
-* Annie Bowles
-* Yucheng Yang
+* Annie Bowles: <u1188019@utah.edu>
+* Yucheng Yang: <dominate0704@gmail.com>
 
 
 ## Prerequisite
@@ -76,29 +76,85 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 
 ## Tentative Course Schedule
 
-* Introduction to the course, working with Jupyter, git, etc.
-* Language: Computing, Mathematics, medicine
-* Problem Solving and Debugging Process
-* Numbers in programming
-* Collections/Data Structures in Python
-* Arrays, Vectors, Matrices
-* Functions in Python
-* Exceptions and assertions
-* Modules and Packages
-* Using Pandas for tabular data
+### Week 1:
+#### Introduction to the course, working with Jupyter, git, etc.
+  * Readings:
+#### Language: Computing, Mathematics, medicine
+* Readings:
+  * “Introduction to Computation and Programming Using Python with Application to Understanding Data” Chapter 1;
+  * "Elements of Mathematics" Sections 1.1, 1.2, 1.8-1.10;
+  * Think Python: How to Think Like a Computer Scientist, 2nd Edition section 1.6 "Formal and natural languages"
+### Week 2
+#### Problem Solving and Debugging Process
+#### Numbers in programming
 
+* Readings:
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 3.
+  * *Elements of Mathematics,* Section 1.1
+
+### Week 3 (September 5)
+#### Mathematical Set theory
+
+* Readings:
+  * *Elements of Mathematics,* Section 9.8
+
+#### Collections/Data Structures in Python
+
+* Readings:
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 5
+  * [Python tutorial: Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
+### Week 4 (September 12)
+#### Arrays, Vectors, Matrices
+
+* Readings:
+  * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
+  * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+
+### Week 5 (September 19)
+#### Testing and Debugging
+
+* Readings:
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 6
+
+#### Exceptions and Assertions
+* Readings:
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 7
+### Week 6 (September 26)
+#### Mathematical Functions
+#### Functions in Python
+* Readings
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 4
+### Week 7 (October 3)
+* Modules and Packages
+### Week 8 Fall Break (Sun.-Sun., October 7-14)
 #### Fall Break
 #### Mid-term
 
-* Files, Serialization, and compression
-* Merging data from multiple data sources
-* Object oriented programming
-* Acquring data from Relational databases
-* Visualization
-* Text processing
-* Linear Algebra, Word Vectors
-* Monte Carlo methods for simulation
-* Working with graph and network data
+### Week 9 (October 17)
+#### Pandas
+
+### Week 10 (October 24)
+#### Files, Serialization, and compression
+
+### Week 11 (October 31)
+#### Merging data from multiple data sources
+
+### Week 12 (November 7)
+#### Object oriented programming
+
+### Week 13 (November 14)
+#### Acquring data from Relational databases
+
+### Week 14 (November 21)
+#### Visualization
+
+### Week 15 (November 28)
+#### Text processing
+
+### Week 16 (December 5)
+#### Linear Algebra, Word Vectors
+
+
 
 #### Final Exam
 
