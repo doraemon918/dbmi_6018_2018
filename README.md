@@ -79,13 +79,17 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 ### Week 1:
 #### Introduction to the course, working with Jupyter, git, etc.
   * Readings:
+
 #### Language: Computing, Mathematics, medicine
+
 * Readings:
-  * “Introduction to Computation and Programming Using Python with Application to Understanding Data” Chapter 1;
-  * "Elements of Mathematics" Sections 1.1, 1.2, 1.8-1.10;
-  * Think Python: How to Think Like a Computer Scientist, 2nd Edition section 1.6 "Formal and natural languages"
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 1;
+  * *Elements of Mathematics* Sections 1.1, 1.2, 1.8-1.10;
+  * *Think Python: How to Think Like a Computer Scientist*, 2nd Edition section 1.6 "Formal and natural languages"
+
 ### Week 2
 #### Problem Solving and Debugging Process
+
 #### Numbers in programming
 
 * Readings:
@@ -103,12 +107,14 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 * Readings:
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 5
   * [Python tutorial: Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
-### Week 4 (September 12)
-#### Arrays, Vectors, Matrices
 
-* Readings:
-  * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
-  * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+### Week 4
+ (September 26)
+#### Functions
+* Readings
+  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 4
+
+
 
 ### Week 5 (September 19)
 #### Testing and Debugging
@@ -119,14 +125,19 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 #### Exceptions and Assertions
 * Readings:
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 7
-### Week 6 (September 26)
-#### Mathematical Functions
-#### Functions in Python
-* Readings
-  * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 4
-### Week 7 (October 3)
+
+### Week 6 (October 3)
 * Modules and Packages
+
+### Week 7 (September 12)
+#### Arrays, Vectors, Matrices
+
+* Readings:
+  * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
+  * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+
 ### Week 8 Fall Break (Sun.-Sun., October 7-14)
+
 #### Fall Break
 #### Mid-term
 
@@ -150,6 +161,12 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 
 ### Week 15 (November 28)
 #### Text processing
+
+
+
+* Readings:
+  * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
+  * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 
 ### Week 16 (December 5)
 #### Linear Algebra, Word Vectors
