@@ -1,0 +1,20 @@
+| Python code | Predicted output |
+|:-----------:|:----------------:|
+|  2+3 |    |
+| 3*4+2 |  |
+| 3 * 4 + 2.0 | |
+| 3(4 + 2) | |
+| 3 * (4 + 2) | |
+| 5 / 10 | |
+| 5 / 10.0 | |
+| 5/9 | |
+| 2 ** 4 | |
+| abs(-2) ** 4 | |
+| math.pow(2, 4) | |
+| import math | |
+| math.pow(2, 4) | |
+| sqrt(4) | |
+| math.sqrt(4) | |
+| math.cos(0) | |
+| math.pi | |
+| math.sin(math.pi / 2) | |
