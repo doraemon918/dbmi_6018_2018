@@ -44,4 +44,4 @@ print(chapmanbe.my_favorite_functions.reverseMyName("Brian","Chapman"))
     1. ``reverseMyName`` is a function defined in the module ``my_favorite_functions`` which is located in the package ``chapmanbe``.
 
 9. This link is not working ``https://docs.python.org/lib/lib.htm.``
-    1. Python changed their directory structure seems I made the notebook. Look at: [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html)
+    1. Python changed their directory structure after I made the notebook. Look at: [https://docs.python.org/3/library/index.html](https://docs.python.org/3/library/index.html)
