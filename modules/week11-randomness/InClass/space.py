@@ -52,7 +52,7 @@ class Field(object):
             raise ValueError("Duplicate drunk")
                             
         else:
-            self.place(drunk, loc)
+            self.placeDrunk(drunk, loc)
     
     def placeDrunk(self, drunk, loc):
         self.__drunks[drunk] = loc
