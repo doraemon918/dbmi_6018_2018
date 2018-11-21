@@ -22,14 +22,15 @@ This course will provide students in the biological and medical domains the foun
 
 ### Learning Objectives
 
-1. Acquire basic software engineering skills (git, documentation, unit  testing) that they follow in their own code  development.											
+1. Acquire basic software engineering skills (git, documentation, unit  testing) to follow in code  development											
 2. Recognize the components of a good program and software development process											
 3. Build python skills and create biomedical software applications in the Python programming language											
-4. Develop pipelines for manipulating, analyzing, and visualizing biomedical data.											
-5. Apply basic mathematical principles (e.g. set  theory, first order logic, calculus, linear algebra,  probability, and graph theory) to motivate and  in form computational problems in biology and  healthcare. (Programmers) 											
-6. Acquire mathematics literacy that will facilitate effective reading of the relevant  biomedical literature.  											
-7. Given a task within your field, follow the polya method to develop a prototype solution											
-8. Exhibit confidence for self-directed expansion of their programming skills.          											
+4. Develop pipelines for manipulating, analyzing, and visualizing biomedical data
+
+5. Apply basic mathematical principles (e.g. set  theory, first order logic, calculus, linear algebra,  probability, and graph theory) to motivate and inform computational problems in biology and  healthcare 											
+6. Acquire mathematics literacy that will facilitate effective reading of the relevant  biomedical literature  											
+7. Given a task within a field of interest, follow the polya method to develop a prototype solution											
+8. Exhibit confidence for self-directed expansion of programming skills          											
 
 
 ## Text Books
@@ -60,14 +61,13 @@ From Euclid to Gödel](https://press.princeton.edu/titles/10697.html) by John St
 
 ## Evaluation Methods
 
-1. Quizzes: **10%** of grade.
+1. Quizzes: **15%** of grade.
   * Quizzes will be based on class-preparation materials to ensure that the students have reviewed the materials prior to the start of class.
-1. Class Participation: **15%** of grade
-    1. Stuents are expected to attend class and participate in group activites. In-class assignments will form part of the grade.
-1. Homework Assignments: **35%**
-1. Term Project: **20%**
+1. Class Participation: **20%** of grade
+    1. Students are expected to attend class and participate in group activites. In-class assignments will form part of the grade.
+1. Homework Assignments: **40%**
 1. Midterm Exam: **10%**
-1. Final Exam: **10%**
+1. Final Exam: **15%**
 
 ##  Teaching and Learning Methods                 
 
@@ -80,7 +80,7 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 #### Introduction to the course, working with Jupyter, git, etc.
   * Readings:
 
-#### Language: Computing, Mathematics, medicine
+#### Language: Computing, Mathematics, Medicine
 
 * Readings:
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 1;
@@ -88,7 +88,7 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
   * *Think Python: How to Think Like a Computer Scientist*, 2nd Edition section 1.6 "Formal and natural languages"
 
 ### Week 2
-#### Problem Solving and Debugging Process
+#### Problem Solving and the Debugging Process
 
 #### Numbers in programming
 
@@ -96,7 +96,7 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 3.
   * *Elements of Mathematics,* Section 1.1
 
-### Week 3 (September 5)
+### Week 3
 #### Mathematical Set theory
 
 * Readings:
@@ -109,14 +109,14 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
   * [Python tutorial: Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
 
 ### Week 4
- (September 26)
 #### Functions
 * Readings
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 4
 
+### Week 5
+#### Functions Continued
 
-
-### Week 5 (September 19)
+### Week 6
 #### Testing and Debugging
 
 * Readings:
@@ -126,54 +126,60 @@ This class will follow a “flipped classroom” paradigm. Students will be expe
 * Readings:
   * *Introduction to Computation and Programming Using Python with Application to Understanding Data* Chapter 7
 
-### Week 6 (October 3)
-* Modules and Packages
+### Week 7
+#### Modules and Packages
 
-### Week 7 (September 12)
-#### Arrays, Vectors, Matrices
-
-* Readings:
-  * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
-  * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
-
-### Week 8 Fall Break (Sun.-Sun., October 7-14)
-
+### Week 8
 #### Fall Break
-#### Mid-term
 
 ### Week 9 (October 17)
 #### Pandas
 
-### Week 10 (October 24)
-#### Files, Serialization, and compression
-
-### Week 11 (October 31)
-#### Merging data from multiple data sources
-
-### Week 12 (November 7)
-#### Object oriented programming
-
-### Week 13 (November 14)
-#### Acquring data from Relational databases
-
-### Week 14 (November 21)
-#### Visualization
-
-### Week 15 (November 28)
-#### Text processing
-
-
-
 * Readings:
   * *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
   * [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 
-### Week 16 (December 5)
-#### Linear Algebra, Word Vectors
+#### Mid-term
 
+### Week 10
+#### Files, Serialization, and compression
 
+### Week 11
+#### Object Oriented Programming Part 1: Modeling Persons
+
+### Week 12
+#### Object Oriented Programming Part 2: Modeling Random Walks
+
+**Readings:**
+* *Introduction to Computation and Programming Using Python with Application to Understanding Data* chapters 13
+* *Elements of Mathematics* sections 8.2 and 8.3
+
+### Week 13
+#### Stochastic Processes and Monte Carlo Simulation
+
+**Readings:**
+
+* *Introduction to Computation and Programming Using Python with Application to Understanding Data* chapters 15 and 16
+* *Elements of Mathematics* 8.4-8.7
+
+### Week 14
+#### Visualization with Altair
+
+### Week 15
+#### Text Extraction with Regular Expressions
+
+### Week 16
+#### Linear Algebra, Word Vectors, and Document Classification
+
+**Readings:**
+* *Elements of Mathematics,* Sections 4.5, 4.6, 5.7, 5.8
+* [DataCamp Numpy Array Tutorial](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 
 #### Final Exam
+
+## Extra Credit
+
+Students wishing to earn extra credit can participate in creating Jupyter notebooks exploring the effects of air quality on health. Initial drafts of this material can be found at its  [GitHub repository](https://github.com/UUDBMI/airquality_and_health)
 
 ## Course Resources
 
